@@ -35,3 +35,5 @@ Not to be used for discriminatory marketing
 Helps businesses optimize their ad targeting
 Helps businesses save money by reducing marketing expenses
 Can be integrated with existing CRM Systems
+## 🎥 Demo Video
+[Click here to watch the working prototype](https://1drv.ms/v/c/aa966b9ba672db16/IQDSzh4Ex5yGR5iZCm9OAKStAWtXPDHYOsGcrWMfvIj7tZY?e=ffqrwe)
